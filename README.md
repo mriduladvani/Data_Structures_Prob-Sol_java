@@ -1,0 +1,2 @@
+# Data_Structures_Prob-Sol_java
+This repository includes a lot of problems that are related to majorly data structures and object oriented programming. There are questions ranging from easy to difficult and their solutions are posted along with them. These questions are my attempt to solve high quality programming and problem solving questions and to increase the understanding of data structures. All the solutions are in Java.
